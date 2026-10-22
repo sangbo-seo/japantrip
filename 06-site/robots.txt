@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://japantrip.haesis.com/sitemap.xml
