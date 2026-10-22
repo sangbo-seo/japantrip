@@ -15,3 +15,11 @@
 - 글 1건은 한 메뉴에만 둡니다.
 - last_checked 가 비어 있으면 게시하지 않습니다.
 - 가격·시간·제도 수치는 확인 전에는 비워 둡니다.
+
+## 사이트 레이아웃 정리 스크립트
+`06-site`의 HTML을 다시 만들었다면 아래 명령으로 공통 헤더·푸터, 메타 태그, 섹션 정리, webp 이미지를 다시 적용합니다. 여러 번 실행해도 결과가 같습니다.
+
+```
+pip install beautifulsoup4 pillow
+python scripts/polish_site.py
+```
