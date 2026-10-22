@@ -23,3 +23,8 @@
 pip install beautifulsoup4 pillow
 python scripts/polish_site.py
 ```
+
+## 코스 중심 정리
+- `scripts/courses/*.html`: 일정 글 본문(하루 코스 타임라인). 고친 뒤 `python scripts/apply_courses.py` 실행
+- `scripts/trim_prices.py`: 도시 가이드에서 숙박·식비·총예산 금액을 덜어 냄 (교통·입장 요금은 유지)
+- 마지막에 항상 `python scripts/polish_site.py` 실행

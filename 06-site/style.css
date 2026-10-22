@@ -245,3 +245,28 @@ td{min-width:96px}
 @media print{.site-header,.side,.site-footer,.jump{display:none}main article{border:0;box-shadow:none;padding:0}}
 .site-footer .brand svg rect{fill:#2b3b5c}
 @media (max-width:720px){td{min-width:128px}td:first-child{min-width:72px}}
+
+/* ---------- course timeline ---------- */
+.timeline{list-style:none;padding:0;margin:20px 0 8px;position:relative}
+.timeline::before{content:"";position:absolute;left:7px;top:10px;bottom:10px;width:2px;background:var(--line)}
+.timeline>li{position:relative;padding:0 0 22px 34px;margin:0}
+.timeline>li:last-child{padding-bottom:4px}
+.timeline>li::before{content:"";position:absolute;left:0;top:7px;width:16px;height:16px;border-radius:50%;background:#fff;border:3px solid var(--brand)}
+.timeline .when{display:inline-block;font-size:12.5px;font-weight:800;color:var(--brand);letter-spacing:.02em;margin-bottom:2px}
+.timeline h4{font-size:17px;margin:0 0 4px;line-height:1.45}
+.timeline p{margin:4px 0;color:var(--ink-2)}
+.timeline ul{margin:6px 0;color:var(--ink-2)}
+.move{display:inline-flex;flex-wrap:wrap;gap:4px 8px;align-items:baseline;font-size:14px;color:var(--ink-2);background:var(--tint);border-radius:8px;padding:6px 12px;margin:8px 0 2px!important}
+.move::before{content:"이동";font-size:11.5px;font-weight:800;color:#fff;background:var(--navy);border-radius:5px;padding:1px 7px;align-self:center}
+.tip{background:#f0f6ef;border-radius:var(--radius-sm);padding:14px 18px 14px 18px;font-size:15px;color:#2d4a2b;margin:16px 0}
+.tip b:first-child{display:block;font-size:13px;letter-spacing:.02em;color:#3f7a3a;margin-bottom:2px}
+.tip.warn{background:#fdf3e7;color:#5c3d16}
+.tip.warn b:first-child{color:#b26a12}
+.daytitle{display:flex;align-items:baseline;gap:10px}
+.daytitle small{font-size:14px;font-weight:700;color:#fff;background:var(--brand);border-radius:999px;padding:3px 11px;position:relative;top:-3px}
+.overview{display:grid;gap:10px;margin:18px 0;padding:0;list-style:none}
+.overview li{display:grid;grid-template-columns:72px 1fr;gap:14px;align-items:start;margin:0;padding:14px 18px;border:1px solid var(--line);border-radius:var(--radius-sm);background:#fff}
+.overview li>b{font-size:14px;color:var(--brand);padding-top:1px}
+.overview li span{display:block}
+.overview li em{font-style:normal;display:block;font-size:13.5px;color:var(--muted);margin-top:2px}
+@media (max-width:720px){.timeline>li{padding-left:28px}.overview li{grid-template-columns:56px 1fr;padding:12px 14px}}

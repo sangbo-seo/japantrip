@@ -23,7 +23,7 @@ BASE = "https://japantrip.haesis.com"
 SITE = "일본 여행 가이드"
 CHECKED = "2026-10-22"
 FONT_CSS = "https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"
-CSS_VER = "3"
+CSS_VER = "4"
 
 MENU = [
     ("prepare", "준비", "출국 전에 할 일: 항공권, 입국, 통신, 돈, 짐"),
@@ -528,9 +528,44 @@ def build_home(soup, pre):
     t.string = f"{SITE} | 한국인 가족 일본 여행 준비·일정·교통"
 
 
+def page_titles(pages):
+    titles = {}
+    for p in pages:
+        m = re.search(r"<h1[^>]*>(.*?)</h1>", p.read_text(encoding="utf-8"), re.S)
+        if m and len(p.relative_to(ROOT).parts) > 1:
+            titles[p.parent.name] = (re.sub(r"<[^>]+>", "", m.group(1)).strip(), p)
+    return titles
+
+
+def fix_slug_links(path, titles):
+    """링크 글자가 슬러그(osaka-3n4d-family)로만 적힌 곳을 글 제목으로 바꾼다."""
+    s = path.read_text(encoding="utf-8")
+
+    def rep(m):
+        href, text = m.group(1), m.group(2)
+        slug = text.strip()
+        if slug in titles and re.search(rf"/{re.escape(slug)}/index\.html", href):
+            return f'<a href="{href}">{titles[slug][0]}</a>'
+        return m.group(0)
+
+    def rep_td(m):
+        slug = m.group(1)
+        if slug not in titles:
+            return m.group(0)
+        title, target = titles[slug]
+        href = os.path.relpath(target, path.parent).replace(os.sep, "/")
+        return f'<td><a href="{href}">{title}</a></td>'
+    t = re.sub(r'<a href="([^"]+)">([a-z0-9-]+)</a>', rep, s)
+    t = re.sub(r"<td>([a-z][a-z0-9]*-[a-z0-9-]+)</td>", rep_td, t)
+    if t != s:
+        path.write_text(t, encoding="utf-8", newline="\n")
+
+
 def main():
     pages = sorted(p for p in ROOT.rglob("index.html"))
+    titles = page_titles(pages)
     for p in pages:
+        fix_slug_links(p, titles)
         process_page(p)
     print(f"{len(pages)} pages processed")
 
