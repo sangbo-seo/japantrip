@@ -1,0 +1,66 @@
+{
+  "prepare": {
+    "sort": "단계순",
+    "filters": [
+      "attributes",
+      "region"
+    ],
+    "highlight": [
+      "last_checked",
+      "read_time"
+    ]
+  },
+  "regions": {
+    "sort": "권역순",
+    "filters": [
+      "themes",
+      "companions"
+    ],
+    "highlight": [
+      "kid_fit",
+      "themes"
+    ]
+  },
+  "itineraries": {
+    "sort": "추천순",
+    "filters": [
+      "duration",
+      "companions",
+      "region",
+      "budget"
+    ],
+    "highlight": [
+      "duration",
+      "companions",
+      "est_cost"
+    ]
+  },
+  "transport": {
+    "sort": "도시별",
+    "filters": [
+      "region",
+      "attributes"
+    ],
+    "highlight": [
+      "last_checked",
+      "est_cost"
+    ]
+  },
+  "onsite": {
+    "sort": "최신 확인순",
+    "filters": [
+      "region",
+      "themes",
+      "attributes"
+    ],
+    "highlight": [
+      "reservation",
+      "kid_fit"
+    ]
+  },
+  "tools": {
+    "sort": "인기순",
+    "filters": [],
+    "highlight": []
+  }
+}

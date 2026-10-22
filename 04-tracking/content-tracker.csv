@@ -1,0 +1,45 @@
+id,title,menu,type,path,status,last_checked,note
+departure-checklist,출국 전 체크리스트,prepare,가이드,03-content/01-prepare/timeline/departure-checklist.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+tax-free-2026-11,2026년 11월 일본 면세 환급 절차,onsite,가이드,03-content/05-onsite/shopping/tax-free-2026-11.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+osaka-3n4d-family,오사카 3박 4일 가족 일정,itineraries,일정,03-content/03-itineraries/posts/osaka-3n4d-family.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+fukuoka-2n3d,후쿠오카 2박 3일 총액 예시,itineraries,일정,03-content/03-itineraries/posts/fukuoka-2n3d.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+flight-total-cost,항공권 총액 비교,prepare,비교,03-content/01-prepare/flights/flight-total-cost.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+no-data-esim,데이터가 안 될 때 대처법,onsite,가이드,03-content/05-onsite/help/no-data-esim.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+osaka,오사카 여행 가이드,regions,도시허브,03-content/02-regions/kansai/osaka/index.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+fukuoka,후쿠오카 여행 가이드,regions,도시허브,03-content/02-regions/kyushu/fukuoka/index.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+tokyo,도쿄 여행 가이드,regions,도시허브,03-content/02-regions/kanto/tokyo/index.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+kumamoto,구마모토 여행 가이드,regions,도시허브,03-content/02-regions/kyushu/kumamoto/index.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+matsuyama,마쓰야마 여행 가이드,regions,도시허브,03-content/02-regions/etc/matsuyama/index.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+osaka-2n3d-family,오사카 2박 3일 가족 일정,itineraries,일정,03-content/03-itineraries/posts/osaka-2n3d-family.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+osaka-4n5d-kyoto-family,오사카 4박 5일 가족 일정 + 교토,itineraries,일정,03-content/03-itineraries/posts/osaka-4n5d-kyoto-family.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+fukuoka-3n4d-family,후쿠오카 3박 4일 가족 일정,itineraries,일정,03-content/03-itineraries/posts/fukuoka-3n4d-family.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+fukuoka-4n5d-family,후쿠오카 4박 5일 가족 일정,itineraries,일정,03-content/03-itineraries/posts/fukuoka-4n5d-family.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+tokyo-3n4d-family,도쿄 3박 4일 가족 일정,itineraries,일정,03-content/03-itineraries/posts/tokyo-3n4d-family.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+kumamoto-3n4d-family,구마모토 3박 4일 가족 일정,itineraries,일정,03-content/03-itineraries/posts/kumamoto-3n4d-family.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+matsuyama-3n4d-slow,마쓰야마 3박 4일 느린 가족 일정,itineraries,일정,03-content/03-itineraries/posts/matsuyama-3n4d-slow.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+tokyo-airport-to-city,도쿄 하네다·나리타에서 시내까지,transport,가이드,03-content/04-transport/airport/tokyo-airport-to-city.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+kmj-airport-to-city,구마모토공항에서 시내까지,transport,가이드,03-content/04-transport/airport/kmj-airport-to-city.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+myj-airport-to-dogo,마쓰야마공항에서 시내·도고온천까지,transport,가이드,03-content/04-transport/airport/myj-airport-to-dogo.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+kumamoto-aso-kurokawa-rentcar,구마모토 아소·구로카와 렌터카 일정,transport,가이드,03-content/04-transport/car/kumamoto-aso-kurokawa-rentcar.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+kumamoto-earthquake-status,구마모토 지진 이후 여행 가능 여부,onsite,가이드,03-content/05-onsite/help/kumamoto-earthquake-status.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+dogo-onsen-honkan-guide,도고온천 본관 이용 가이드,regions,가이드,03-content/02-regions/etc/matsuyama/dogo-onsen-honkan-guide.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+matsuyama-uchiko-daytrip,마쓰야마에서 우치코 당일치기,regions,가이드,03-content/02-regions/etc/matsuyama/matsuyama-uchiko-daytrip.md,검수,2026-10-22,AI 작성본: 확인 필요 항목 검수 전
+budget-calculator,예산 계산기,tools,도구,03-content/06-tools/budget-calculator/_index.md,검수,2026-10-22,도구 페이지: 기존 글 값 재사용, 계산 범위 주의 표기
+tax-refund-calculator,면세·환급 계산기,tools,도구,03-content/06-tools/tax-refund-calculator/_index.md,검수,2026-10-22,도구 페이지: 기존 글 값 재사용, 계산 범위 주의 표기
+exchange-memo,환율·엔화 메모,tools,도구,03-content/06-tools/exchange-memo/_index.md,검수,2026-10-22,도구 페이지: 기존 글 값 재사용, 계산 범위 주의 표기
+itinerary-compare,일정 비교표,tools,도구,03-content/06-tools/itinerary-compare/_index.md,검수,2026-10-22,도구 페이지: 기존 글 값 재사용, 계산 범위 주의 표기
+kyushu-region,규슈 권역 가이드,regions,권역허브,03-content/02-regions/kyushu/_index.md,검수,2026-10-22,권역 가이드: 도시 비교·이동 요금·추천 루트
+kansai-region,간사이 권역 가이드,regions,권역허브,03-content/02-regions/kansai/_index.md,검수,2026-10-22,권역 가이드: 도시 비교·이동 요금·추천 루트
+kanto-region,간토 권역 가이드,regions,권역허브,03-content/02-regions/kanto/_index.md,검수,2026-10-22,권역 가이드: 도시 비교·이동 요금·추천 루트
+etc-region,주부·시코쿠·기타 권역 가이드,regions,권역허브,03-content/02-regions/etc/_index.md,검수,2026-10-22,권역 가이드: 도시 비교·이동 요금·추천 루트
+beppu,벳푸 여행 가이드,regions,도시허브,03-content/02-regions/kyushu/beppu/index.md,검수,2026-10-22,2차 도시 허브: 직항 확인, 확인 필요 항목 포함
+nagasaki,나가사키 여행 가이드,regions,도시허브,03-content/02-regions/kyushu/nagasaki/index.md,검수,2026-10-22,2차 도시 허브: 직항 확인, 확인 필요 항목 포함
+kyoto,교토 여행 가이드,regions,도시허브,03-content/02-regions/kansai/kyoto/index.md,검수,2026-10-22,2차 도시 허브: 직항 확인, 확인 필요 항목 포함
+kobe,고베 여행 가이드,regions,도시허브,03-content/02-regions/kansai/kobe/index.md,검수,2026-10-22,2차 도시 허브: 직항 확인, 확인 필요 항목 포함
+nara,나라 여행 가이드,regions,도시허브,03-content/02-regions/kansai/nara/index.md,검수,2026-10-22,2차 도시 허브: 직항 확인, 확인 필요 항목 포함
+yokohama,요코하마 여행 가이드,regions,도시허브,03-content/02-regions/kanto/yokohama/index.md,검수,2026-10-22,2차 도시 허브: 직항 확인, 확인 필요 항목 포함
+hakone,하코네 여행 가이드,regions,도시허브,03-content/02-regions/kanto/hakone/index.md,검수,2026-10-22,2차 도시 허브: 직항 확인, 확인 필요 항목 포함
+nagoya,나고야 여행 가이드,regions,도시허브,03-content/02-regions/etc/nagoya/index.md,검수,2026-10-22,2차 도시 허브: 직항 확인, 확인 필요 항목 포함
+takamatsu,다카마쓰 여행 가이드,regions,도시허브,03-content/02-regions/etc/takamatsu/index.md,검수,2026-10-22,2차 도시 허브: 직항 확인, 확인 필요 항목 포함
+sapporo,삿포로 여행 가이드,regions,도시허브,03-content/02-regions/etc/sapporo/index.md,검수,2026-10-22,2차 도시 허브: 직항 확인, 확인 필요 항목 포함
+okinawa,오키나와 여행 가이드,regions,도시허브,03-content/02-regions/etc/okinawa/index.md,검수,2026-10-22,2차 도시 허브: 직항 확인, 확인 필요 항목 포함

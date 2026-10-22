@@ -1,0 +1,117 @@
+[
+  {
+    "slug": "kyushu",
+    "title": "규슈",
+    "cities": [
+      {
+        "slug": "fukuoka",
+        "title": "후쿠오카",
+        "phase": 1
+      },
+      {
+        "slug": "kumamoto",
+        "title": "구마모토",
+        "phase": 1
+      },
+      {
+        "slug": "beppu",
+        "title": "벳푸",
+        "phase": 1,
+        "opened": "2026-10-22"
+      },
+      {
+        "slug": "nagasaki",
+        "title": "나가사키",
+        "phase": 1,
+        "opened": "2026-10-22"
+      }
+    ]
+  },
+  {
+    "slug": "kansai",
+    "title": "간사이",
+    "cities": [
+      {
+        "slug": "osaka",
+        "title": "오사카",
+        "phase": 1
+      },
+      {
+        "slug": "kyoto",
+        "title": "교토",
+        "phase": 1,
+        "opened": "2026-10-22"
+      },
+      {
+        "slug": "kobe",
+        "title": "고베",
+        "phase": 1,
+        "opened": "2026-10-22"
+      },
+      {
+        "slug": "nara",
+        "title": "나라",
+        "phase": 1,
+        "opened": "2026-10-22"
+      }
+    ]
+  },
+  {
+    "slug": "kanto",
+    "title": "간토",
+    "cities": [
+      {
+        "slug": "tokyo",
+        "title": "도쿄",
+        "phase": 1
+      },
+      {
+        "slug": "yokohama",
+        "title": "요코하마",
+        "phase": 1,
+        "opened": "2026-10-22"
+      },
+      {
+        "slug": "hakone",
+        "title": "하코네",
+        "phase": 1,
+        "opened": "2026-10-22"
+      }
+    ]
+  },
+  {
+    "slug": "etc",
+    "title": "주부·시코쿠·기타",
+    "cities": [
+      {
+        "slug": "nagoya",
+        "title": "나고야",
+        "phase": 1,
+        "opened": "2026-10-22"
+      },
+      {
+        "slug": "matsuyama",
+        "title": "마쓰야마",
+        "phase": 1
+      },
+      {
+        "slug": "takamatsu",
+        "title": "다카마쓰",
+        "phase": 1,
+        "opened": "2026-10-22"
+      },
+      {
+        "slug": "sapporo",
+        "title": "삿포로",
+        "phase": 1,
+        "opened": "2026-10-22"
+      },
+      {
+        "slug": "okinawa",
+        "title": "오키나와",
+        "phase": 1,
+        "opened": "2026-10-22"
+      }
+    ]
+  }
+]

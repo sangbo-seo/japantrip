@@ -1,0 +1,41 @@
+no,output_file,kind,region,title,article_file,alt_ko,status
+1,departure-checklist.jpg,가이드,전체,"출국 전 체크리스트",03-content//01-prepare/timeline/departure-checklist.md,"여권과 휴대폰 화면의 QR, 변환 플러그를 펼쳐 놓은 출국 준비물",대기
+2,flight-total-cost.jpg,비교,전체,"항공권 총액 비교",03-content//01-prepare/flights/flight-total-cost.md,"항공권 가격표와 여권, 비행기 창밖 풍경이 놓인 여행 준비 책상",대기
+3,fukuoka-hub.jpg,도시 허브,후쿠오카,"후쿠오카 여행 가이드",03-content//02-regions/kyushu/fukuoka/index.md,"",대기
+4,kumamoto-hub.jpg,도시 허브,구마모토,"구마모토 여행 가이드",03-content//02-regions/kyushu/kumamoto/index.md,"구마모토성 천수각과 성곽 전경",대기
+5,osaka-hub.jpg,도시 허브,오사카,"오사카 여행 가이드",03-content//02-regions/kansai/osaka/index.md,"도톤보리 강변과 오사카성이 함께 보이는 오사카 시내 전경",대기
+6,tokyo-hub.jpg,도시 허브,도쿄,"도쿄 여행 가이드",03-content//02-regions/kanto/tokyo/index.md,"도쿄 도심 거리에서 전철역으로 향하는 가족 여행자",대기
+7,matsuyama-hub.jpg,도시 허브,마쓰야마,"마쓰야마 여행 가이드",03-content//02-regions/etc/matsuyama/index.md,"언덕 위 마쓰야마성과 도고온천 본관 전경",대기
+8,dogo-onsen-honkan-guide.jpg,가이드,마쓰야마,"도고온천 본관 이용 가이드",03-content//02-regions/etc/matsuyama/dogo-onsen-honkan-guide.md,"저녁 조명이 켜진 도고온천 본관 정면",대기
+9,matsuyama-uchiko-daytrip.jpg,가이드,마쓰야마,"마쓰야마에서 우치코 당일치기",03-content//02-regions/etc/matsuyama/matsuyama-uchiko-daytrip.md,"흰 벽 옛 상가가 이어진 우치코 옛 거리",대기
+10,osaka-3n4d-family.jpg,일정,오사카,"오사카 3박 4일 가족 일정",03-content//03-itineraries/posts/osaka-3n4d-family.md,"도톤보리 강변을 걷는 부모와 초등학생 자녀의 뒷모습",대기
+11,fukuoka-2n3d.jpg,일정,후쿠오카,"후쿠오카 2박 3일 총액 예시",03-content//03-itineraries/posts/fukuoka-2n3d.md,"후쿠오카 하카타 시내 야타이 거리의 저녁 풍경",대기
+12,kumamoto-3n4d-family.jpg,일정,구마모토,"구마모토 3박 4일 가족 일정 (구마모토성, 시내, 아소 렌터카)",03-content//03-itineraries/posts/kumamoto-3n4d-family.md,"구마모토성 천수각과 성곽",대기
+13,tokyo-3n4d-family.jpg,일정,도쿄,"도쿄 3박 4일 가족 일정",03-content//03-itineraries/posts/tokyo-3n4d-family.md,"도쿄 거리에서 지도를 보며 걷는 부모와 초등학생 아이",대기
+14,matsuyama-3n4d-slow.jpg,일정,마쓰야마,"마쓰야마 3박 4일 느린 가족 일정: 도고온천 숙박, 성과 동물원",03-content//03-itineraries/posts/matsuyama-3n4d-slow.md,"도고온천 본관 앞 상점가를 걷는 가족",대기
+15,osaka-2n3d-family.jpg,일정,오사카,"오사카 2박 3일 가족 일정",03-content//03-itineraries/posts/osaka-2n3d-family.md,"USJ 입구로 걸어가는 부모와 초등학생 자녀의 뒷모습",대기
+16,osaka-4n5d-kyoto-family.jpg,일정,오사카,"오사카 4박 5일 가족 일정과 교토 당일치기",03-content//03-itineraries/posts/osaka-4n5d-kyoto-family.md,"교토 후시미이나리 신사의 붉은 도리이 길을 걷는 가족의 뒷모습",대기
+17,fukuoka-3n4d-family.jpg,일정,후쿠오카,"후쿠오카 3박 4일 가족 일정",03-content//03-itineraries/posts/fukuoka-3n4d-family.md,"후쿠오카 우미노나카미치 해변공원과 마린월드 수족관 풍경",대기
+18,fukuoka-4n5d-family.jpg,일정,후쿠오카,"후쿠오카 4박 5일 가족 일정",03-content//03-itineraries/posts/fukuoka-4n5d-family.md,"후쿠오카 노코노시마 섬 꽃 공원과 하카타만 풍경",대기
+19,tokyo-airport-to-city.jpg,가이드,도쿄,"하네다·나리타에서 도쿄 시내까지",03-content//04-transport/airport/tokyo-airport-to-city.md,"하네다공항 전철 승강장에서 캐리어를 끄는 가족",대기
+20,kmj-airport-to-city.jpg,가이드,구마모토,"구마모토공항에서 시내까지: 공항버스·택시·렌터카 비교",03-content//04-transport/airport/kmj-airport-to-city.md,"아소 구마모토공항 버스 승강장 앞 공항버스",대기
+21,myj-airport-to-dogo.jpg,가이드,마쓰야마,"마쓰야마공항에서 시내·도고온천까지: 리무진 버스, 택시, 렌터카 비교",03-content//04-transport/airport/myj-airport-to-dogo.md,"마쓰야마공항 앞 이요테쓰 리무진 버스",대기
+22,kumamoto-aso-kurokawa-rentcar.jpg,가이드,구마모토,"구마모토에서 아소·구로카와 렌터카 일정",03-content//04-transport/car/kumamoto-aso-kurokawa-rentcar.md,"아소 구사센리 초원과 말",대기
+23,tax-free-2026-11.jpg,가이드,전체,"2026년 11월 일본 면세 환급 절차",03-content//05-onsite/shopping/tax-free-2026-11.md,"일본 공항 출국장의 면세 절차 단말기에 여권을 대는 모습",대기
+24,no-data-esim.jpg,가이드,전체,"데이터가 안 될 때 대처법",03-content//05-onsite/help/no-data-esim.md,"일본 거리에서 휴대폰 지도가 안 열려 화면을 확인하는 여행자의 뒷모습",대기
+25,kumamoto-earthquake-status.jpg,가이드,구마모토,"구마모토 지진 이후 여행 가능 여부와 확인 방법",03-content//05-onsite/help/kumamoto-earthquake-status.md,"구마모토성 전경과 안내 표지",대기
+﻿26,kyushu-region.jpg,권역 허브,규슈,03-content/02-regions/kyushu/_index.md,"규슈 신칸센과 구마모토성이 함께 보이는 풍경 (자리표시)",대기
+﻿27,kansai-region.jpg,권역 허브,간사이,03-content/02-regions/kansai/_index.md,"오사카 도톤보리 강변과 교토 후시미이나리의 붉은 도리이 길을 나란히 보여 주는 간사이 대표 풍경",대기
+﻿28,kanto-region.jpg,권역 허브,간토,03-content/02-regions/kanto/_index.md,"도쿄 야경을 배경으로 전철로 이동하는 가족의 뒷모습",대기
+﻿29,etc-region.jpg,권역 허브,주부·시코쿠·기타,03-content/02-regions/etc/_index.md,"마쓰야마 시내 골목과 멀리 보이는 성, 혹은 도고온천 거리 풍경",대기
+﻿30,beppu-hub.jpg,도시 허브,2차,벳푸 여행 가이드,03-content/02-regions/kyushu/beppu/index.md,"벳푸 간나와 온천지구에서 피어오르는 증기와 지옥순례 풍경",대기
+﻿31,nagasaki-hub.jpg,도시 허브,2차,나가사키 여행 가이드,03-content/02-regions/kyushu/nagasaki/index.md,"나가사키 야경과 오우라 천주당 풍경",대기
+﻿32,kyoto-hub.jpg,도시 허브,2차,교토 여행 가이드,03-content/02-regions/kansai/kyoto/index.md,"교토 가와라마치 거리와 오층탑이 함께 보이는 교토 시내 풍경",대기
+﻿33,kobe-hub.jpg,도시 허브,2차,고베 여행 가이드,03-content/02-regions/kansai/kobe/index.md,"하버랜드 앞 항구 야경과 배경의 고베 시가지가 함께 보이는 풍경",대기
+﻿34,nara-hub.jpg,도시 허브,2차,나라 여행 가이드,03-content/02-regions/kansai/nara/index.md,"나라공원에서 풀을 뜯는 사슴과 뒤로 보이는 도다이지 대불전 지붕",대기
+﻿35,yokohama-hub.jpg,도시 허브,2차,요코하마 여행 가이드,03-content/02-regions/kanto/yokohama/index.md,"미나토미라이와 바다를 배경으로 걷는 가족 여행자",대기
+﻿36,hakone-hub.jpg,도시 허브,2차,하코네 여행 가이드,03-content/02-regions/kanto/hakone/index.md,"아시노코 호수 위를 가르는 해적선과 멀리 보이는 후지산",대기
+﻿37,nagoya-hub.jpg,도시 허브,2차,나고야 여행 가이드,03-content/02-regions/etc/nagoya/index.md,"나고야성 본마루어전과 멀리 보이는 센트레아, 또는 사카에 오아시스21 전경",대기
+﻿38,takamatsu-hub.jpg,도시 허브,2차,다카마쓰 여행 가이드,03-content/02-regions/etc/takamatsu/index.md,"리쓰린 공원 남호와 기쿠게쓰테이, 혹은 나오시마 항구의 빨간 호박과 세토나이카이 풍경",대기
+﻿39,sapporo-hub.jpg,도시 허브,2차,삿포로 여행 가이드,03-content/02-regions/etc/sapporo/index.md,"눈 덮인 오도리공원과 삿포로 TV타워, 멀리 홋카이도대학 캠퍼스",대기
+﻿40,okinawa-hub.jpg,도시 허브,2차,오키나와 여행 가이드,03-content/02-regions/etc/okinawa/index.md,"국제거리의 번화한 거리와 유이레일, 혹은 차탄 해변과 만좌모 전망",대기

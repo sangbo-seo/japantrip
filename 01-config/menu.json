@@ -1,0 +1,176 @@
+[
+  {
+    "key": "prepare",
+    "order": 1,
+    "title": "준비",
+    "url": "/prepare/",
+    "description": "출국 전 할 일",
+    "folder": "03-content/01-prepare",
+    "children": [
+      {
+        "slug": "timeline",
+        "title": "출발 전 타임라인",
+        "url": "/prepare/timeline/"
+      },
+      {
+        "slug": "flights",
+        "title": "항공권",
+        "url": "/prepare/flights/"
+      },
+      {
+        "slug": "entry",
+        "title": "입국·세관",
+        "url": "/prepare/entry/"
+      },
+      {
+        "slug": "connectivity",
+        "title": "통신",
+        "url": "/prepare/connectivity/"
+      },
+      {
+        "slug": "money",
+        "title": "돈·결제",
+        "url": "/prepare/money/"
+      },
+      {
+        "slug": "packing",
+        "title": "짐·준비물",
+        "url": "/prepare/packing/"
+      }
+    ]
+  },
+  {
+    "key": "regions",
+    "order": 2,
+    "title": "지역",
+    "url": "/regions/",
+    "description": "어디로 갈지",
+    "folder": "03-content/02-regions",
+    "children": [
+      {
+        "slug": "themes",
+        "title": "테마별 모음",
+        "url": "/regions/themes/"
+      }
+    ]
+  },
+  {
+    "key": "itineraries",
+    "order": 3,
+    "title": "일정",
+    "url": "/itineraries/",
+    "description": "며칠을 어떻게 쓸지",
+    "folder": "03-content/03-itineraries",
+    "children": []
+  },
+  {
+    "key": "transport",
+    "order": 4,
+    "title": "이동",
+    "url": "/transport/",
+    "description": "공항과 도시 간 교통",
+    "folder": "03-content/04-transport",
+    "children": [
+      {
+        "slug": "airport",
+        "title": "공항에서 시내",
+        "url": "/transport/airport/"
+      },
+      {
+        "slug": "intercity",
+        "title": "도시 간",
+        "url": "/transport/intercity/"
+      },
+      {
+        "slug": "local",
+        "title": "시내 교통",
+        "url": "/transport/local/"
+      },
+      {
+        "slug": "car",
+        "title": "렌터카",
+        "url": "/transport/car/"
+      },
+      {
+        "slug": "late-night",
+        "title": "막차·심야·택시",
+        "url": "/transport/late-night/"
+      }
+    ]
+  },
+  {
+    "key": "onsite",
+    "order": 5,
+    "title": "현장",
+    "url": "/onsite/",
+    "description": "도착 후 바로 쓰는 정보",
+    "folder": "03-content/05-onsite",
+    "children": [
+      {
+        "slug": "food",
+        "title": "음식",
+        "url": "/onsite/food/"
+      },
+      {
+        "slug": "shopping",
+        "title": "쇼핑·면세",
+        "url": "/onsite/shopping/"
+      },
+      {
+        "slug": "kids",
+        "title": "아이·가족",
+        "url": "/onsite/kids/"
+      },
+      {
+        "slug": "season",
+        "title": "날씨·시즌",
+        "url": "/onsite/season/"
+      },
+      {
+        "slug": "etiquette",
+        "title": "에티켓·매너",
+        "url": "/onsite/etiquette/"
+      },
+      {
+        "slug": "help",
+        "title": "문제 대응",
+        "url": "/onsite/help/"
+      }
+    ]
+  },
+  {
+    "key": "tools",
+    "order": 6,
+    "title": "도구",
+    "url": "/tools/",
+    "description": "계산·체크",
+    "folder": "03-content/06-tools",
+    "children": [
+      {
+        "slug": "departure-checklist",
+        "title": "출국 체크리스트",
+        "url": "/tools/departure-checklist/"
+      },
+      {
+        "slug": "budget-calculator",
+        "title": "예산 계산기",
+        "url": "/tools/budget-calculator/"
+      },
+      {
+        "slug": "tax-refund-calculator",
+        "title": "면세·환급 계산기",
+        "url": "/tools/tax-refund-calculator/"
+      },
+      {
+        "slug": "exchange-memo",
+        "title": "환율·엔화 메모",
+        "url": "/tools/exchange-memo/"
+      },
+      {
+        "slug": "itinerary-compare",
+        "title": "일정 비교표",
+        "url": "/tools/itinerary-compare/"
+      }
+    ]
+  }
+]

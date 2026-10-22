@@ -1,0 +1,369 @@
+{
+  "aspect_ratio": "16:9",
+  "size": "1600x900",
+  "format": "jpg",
+  "style_suffix": "photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third",
+  "negative_prompt": "text, letters, logos, watermark, brand names, signage with readable characters, recognizable cartoon or game characters, theme-park mascots, distorted hands, extra fingers, visible faces of children, crowds, low resolution, oversaturated colors",
+  "items": [
+    {
+      "no": 1,
+      "id": "departure-checklist",
+      "output_file": "departure-checklist.jpg",
+      "title": "출국 전 체크리스트",
+      "region": "전체",
+      "alt_ko": "여권과 휴대폰 화면의 QR, 변환 플러그를 펼쳐 놓은 출국 준비물",
+      "prompt": "Flat lay on a light wooden desk: a Korean passport-style navy booklet (no readable text), a smartphone showing a generic QR code, a Japanese type-A travel plug adapter, a small coin purse with yen coins, and a printed checklist with blurred lines. Soft window light, top-down view. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 2,
+      "id": "flight-total-cost",
+      "output_file": "flight-total-cost.jpg",
+      "title": "항공권 총액 비교",
+      "region": "전체",
+      "alt_ko": "항공권 가격표와 여권, 비행기 창밖 풍경이 놓인 여행 준비 책상",
+      "prompt": "Top-down travel planning desk: a laptop with an abstract blurred price comparison table (no readable text), a passport-style booklet, a small toy airplane, a calculator and a coffee cup. Soft morning light, clean and bright. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 3,
+      "id": "fukuoka",
+      "output_file": "fukuoka-hub.jpg",
+      "title": "후쿠오카 여행 가이드",
+      "region": "후쿠오카",
+      "alt_ko": "",
+      "prompt": "Hakata, Fukuoka riverside at dusk along the Naka river, rows of yatai food stall lanterns glowing warmly, reflections on the water, relaxed crowd as small silhouettes, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 4,
+      "id": "kumamoto",
+      "output_file": "kumamoto-hub.jpg",
+      "title": "구마모토 여행 가이드",
+      "region": "구마모토",
+      "alt_ko": "구마모토성 천수각과 성곽 전경",
+      "prompt": "Kumamoto Castle main keep and stone walls under a clear blue sky, cherry or green trees in front, wide panoramic composition, calm and majestic, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 5,
+      "id": "osaka",
+      "output_file": "osaka-hub.jpg",
+      "title": "오사카 여행 가이드",
+      "region": "오사카",
+      "alt_ko": "도톤보리 강변과 오사카성이 함께 보이는 오사카 시내 전경",
+      "prompt": "Dotonbori canal in Osaka at dusk with colorful generic neon signs (no readable text), a river boat, and in the distance a subtle silhouette of Osaka Castle tower composited naturally, wide panoramic view. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 6,
+      "id": "tokyo",
+      "output_file": "tokyo-hub.jpg",
+      "title": "도쿄 여행 가이드",
+      "region": "도쿄",
+      "alt_ko": "도쿄 도심 거리에서 전철역으로 향하는 가족 여행자",
+      "prompt": "A Tokyo street at morning with a family of three (seen from behind) walking toward a station entrance, tall city buildings, a generic commuter train passing on an elevated line, clean bright urban light, no readable text or logos. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 7,
+      "id": "matsuyama",
+      "output_file": "matsuyama-hub.jpg",
+      "title": "마쓰야마 여행 가이드",
+      "region": "마쓰야마",
+      "alt_ko": "언덕 위 마쓰야마성과 도고온천 본관 전경",
+      "prompt": "Matsuyama Castle on a hill above a small city in Shikoku, with a ropeway line below and a hint of an old wooden bathhouse roof in the lower town, soft sunset sky, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 8,
+      "id": "dogo-onsen-honkan-guide",
+      "output_file": "dogo-onsen-honkan-guide.jpg",
+      "title": "도고온천 본관 이용 가이드",
+      "region": "마쓰야마",
+      "alt_ko": "저녁 조명이 켜진 도고온천 본관 정면",
+      "prompt": "Dogo Onsen Honkan, the historic wooden Japanese bathhouse with its three-story roof and glowing evening lanterns, wet stone street after rain, warm golden light, a few small blurred silhouettes, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 9,
+      "id": "matsuyama-uchiko-daytrip",
+      "output_file": "matsuyama-uchiko-daytrip.jpg",
+      "title": "마쓰야마에서 우치코 당일치기",
+      "region": "마쓰야마",
+      "alt_ko": "흰 벽 옛 상가가 이어진 우치코 옛 거리",
+      "prompt": "A quiet old merchant street in Uchiko, Ehime, with white plaster walls and wooden lattice houses and a tiled roofline, soft afternoon sun, a parent and child walking in the distance from behind, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 10,
+      "id": "osaka-3n4d-family",
+      "output_file": "osaka-3n4d-family.jpg",
+      "title": "오사카 3박 4일 가족 일정",
+      "region": "오사카",
+      "alt_ko": "도톤보리 강변을 걷는 부모와 초등학생 자녀의 뒷모습",
+      "prompt": "A parent and an elementary-school child holding hands, seen from behind, walking along the Dotonbori canal in Osaka at dusk, glowing generic neon signs (no readable text), warm lights, cheerful mood. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 11,
+      "id": "fukuoka-2n3d",
+      "output_file": "fukuoka-2n3d.jpg",
+      "title": "후쿠오카 2박 3일 총액 예시",
+      "region": "후쿠오카",
+      "alt_ko": "후쿠오카 하카타 시내 야타이 거리의 저녁 풍경",
+      "prompt": "Fukuoka Nakasu yatai street at night, a row of small food stall lanterns, steam rising from ramen bowls on a counter, a parent and a child seated seen from behind, warm cozy lighting, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 12,
+      "id": "kumamoto-3n4d-family",
+      "output_file": "kumamoto-3n4d-family.jpg",
+      "title": "구마모토 3박 4일 가족 일정 (구마모토성, 시내, 아소 렌터카)",
+      "region": "구마모토",
+      "alt_ko": "구마모토성 천수각과 성곽",
+      "prompt": "A family of three seen from behind standing on the wide green Aso grassland looking toward a long volcanic mountain ridge, grazing cattle nearby, big blue sky with soft clouds, calm and open mood, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 13,
+      "id": "tokyo-3n4d-family",
+      "output_file": "tokyo-3n4d-family.jpg",
+      "title": "도쿄 3박 4일 가족 일정",
+      "region": "도쿄",
+      "alt_ko": "도쿄 거리에서 지도를 보며 걷는 부모와 초등학생 아이",
+      "prompt": "A parent and an elementary-school child seen from behind looking at a city map on a smartphone beside a Tokyo crossing, tall buildings and a distant red tower silhouette, soft evening light, friendly mood, no readable text or logos. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 14,
+      "id": "matsuyama-3n4d-slow",
+      "output_file": "matsuyama-3n4d-slow.jpg",
+      "title": "마쓰야마 3박 4일 느린 가족 일정: 도고온천 숙박, 성과 동물원",
+      "region": "마쓰야마",
+      "alt_ko": "도고온천 본관 앞 상점가를 걷는 가족",
+      "prompt": "A family of three seen from behind strolling slowly along the covered shopping arcade in front of Dogo Onsen Honkan at evening, paper lanterns, relaxed slow-travel mood, warm light, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 15,
+      "id": "osaka-2n3d-family",
+      "output_file": "osaka-2n3d-family.jpg",
+      "title": "오사카 2박 3일 가족 일정",
+      "region": "오사카",
+      "alt_ko": "USJ 입구로 걸어가는 부모와 초등학생 자녀의 뒷모습",
+      "prompt": "A parent and an elementary-school child seen from behind walking toward a generic bright theme-park entrance gate with a large globe-like sculpture (no logos, no characters), sunny day, balloons, festive mood. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 16,
+      "id": "osaka-4n5d-kyoto-family",
+      "output_file": "osaka-4n5d-kyoto-family.jpg",
+      "title": "오사카 4박 5일 가족 일정과 교토 당일치기",
+      "region": "오사카",
+      "alt_ko": "교토 후시미이나리 신사의 붉은 도리이 길을 걷는 가족의 뒷모습",
+      "prompt": "A parent and an elementary-school child seen from behind walking through the long tunnel of vermilion torii gates at Fushimi Inari shrine in Kyoto, dappled light, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 17,
+      "id": "fukuoka-3n4d-family",
+      "output_file": "fukuoka-3n4d-family.jpg",
+      "title": "후쿠오카 3박 4일 가족 일정",
+      "region": "후쿠오카",
+      "alt_ko": "후쿠오카 우미노나카미치 해변공원과 마린월드 수족관 풍경",
+      "prompt": "Uminonakamichi seaside park in Fukuoka with fields of colorful flowers by the bay, a family with a child on a bike seen from behind, a distant large aquarium building, sunny day, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 18,
+      "id": "fukuoka-4n5d-family",
+      "output_file": "fukuoka-4n5d-family.jpg",
+      "title": "후쿠오카 4박 5일 가족 일정",
+      "region": "후쿠오카",
+      "alt_ko": "후쿠오카 노코노시마 섬 꽃 공원과 하카타만 풍경",
+      "prompt": "Nokonoshima island in Hakata Bay, Fukuoka, rolling flower fields with a view over the blue bay and the city skyline across the water, a parent and child walking among flowers seen from behind, gentle light, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 19,
+      "id": "tokyo-airport-to-city",
+      "output_file": "tokyo-airport-to-city.jpg",
+      "title": "하네다·나리타에서 도쿄 시내까지",
+      "region": "도쿄",
+      "alt_ko": "하네다공항 전철 승강장에서 캐리어를 끄는 가족",
+      "prompt": "A family of three (parents and an elementary-school child, seen from behind) pulling suitcases along an airport train platform in Tokyo, a generic commuter train arriving, clean modern station, morning light, no logos. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 20,
+      "id": "kmj-airport-to-city",
+      "output_file": "kmj-airport-to-city.jpg",
+      "title": "구마모토공항에서 시내까지: 공항버스·택시·렌터카 비교",
+      "region": "구마모토",
+      "alt_ko": "아소 구마모토공항 버스 승강장 앞 공항버스",
+      "prompt": "A generic airport limousine bus parked at a small regional airport bus stop in Kyushu, Japan, a family loading suitcases (seen from behind), clear sky, distant green mountains, no readable text or logos. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 21,
+      "id": "myj-airport-to-dogo",
+      "output_file": "myj-airport-to-dogo.jpg",
+      "title": "마쓰야마공항에서 시내·도고온천까지: 리무진 버스, 택시, 렌터카 비교",
+      "region": "마쓰야마",
+      "alt_ko": "마쓰야마공항 앞 이요테쓰 리무진 버스",
+      "prompt": "A generic airport shuttle bus leaving a small regional airport in Shikoku, Japan, with citrus orchards and hills in the background, a family waiting at the stop (seen from behind), warm afternoon light, no readable text or logos. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 22,
+      "id": "kumamoto-aso-kurokawa-rentcar",
+      "output_file": "kumamoto-aso-kurokawa-rentcar.jpg",
+      "title": "구마모토에서 아소·구로카와 렌터카 일정",
+      "region": "구마모토",
+      "alt_ko": "아소 구사센리 초원과 말",
+      "prompt": "A compact rental car driving on a road through the wide green Kusasenri grassland of Aso, Kyushu, grazing horses in the field, smoke-free volcanic crater ridge in the distance, big sky, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 23,
+      "id": "tax-free-2026-11",
+      "output_file": "tax-free-2026-11.jpg",
+      "title": "2026년 11월 일본 면세 환급 절차",
+      "region": "전체",
+      "alt_ko": "일본 공항 출국장의 면세 절차 단말기에 여권을 대는 모습",
+      "prompt": "Japanese airport departure hall, a traveler with a suitcase holding a passport up to a generic self-service kiosk terminal, bright modern interior, shallow depth of field, no readable text or logos. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 24,
+      "id": "no-data-esim",
+      "output_file": "no-data-esim.jpg",
+      "title": "데이터가 안 될 때 대처법",
+      "region": "전체",
+      "alt_ko": "일본 거리에서 휴대폰 지도가 안 열려 화면을 확인하는 여행자의 뒷모습",
+      "prompt": "Back view of a traveler holding a smartphone on a quiet Japanese city street at dusk, the phone screen glowing with a blank loading map, lanterns and shop signs blurred in the background (no readable text). photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 25,
+      "id": "kumamoto-earthquake-status",
+      "output_file": "kumamoto-earthquake-status.jpg",
+      "title": "구마모토 지진 이후 여행 가능 여부와 확인 방법",
+      "region": "구마모토",
+      "alt_ko": "구마모토성 전경과 안내 표지",
+      "prompt": "Kumamoto Castle main keep seen from a stone path on a calm clear day, a small neutral information signboard with abstract unreadable marks in the foreground, peaceful and reassuring mood, no people close up. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 26,
+      "id": "kyushu-region",
+      "output_file": "kyushu-region.jpg",
+      "title": "규슈 권역 가이드",
+      "region": "규슈",
+      "alt_ko": "규슈 신칸센과 구마모토성이 함께 보이는 풍경 (자리표시)",
+      "prompt": "A compact Japanese regional landscape: a quiet harbour town in Kyushu with small fishing boats, a low green mountain ridge behind, and a narrow coastal road; soft morning light, calm and unhurried travel mood, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 27,
+      "id": "kansai-region",
+      "output_file": "kansai-region.jpg",
+      "title": "간사이 권역 가이드",
+      "region": "간사이",
+      "alt_ko": "오사카 도톤보리 강변과 교토 후시미이나리의 붉은 도리이 길을 나란히 보여 주는 간사이 대표 풍경",
+      "prompt": "A split-feel wide panorama of the Kansai region: on one side the Dotonbori canal in Osaka at dusk with colorful generic neon signs (no readable text), on the other side a path of vermilion torii gates, blended naturally into one coherent scene, warm lights, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 28,
+      "id": "kanto-region",
+      "output_file": "kanto-region.jpg",
+      "title": "간토 권역 가이드",
+      "region": "간토",
+      "alt_ko": "도쿄 야경을 배경으로 전철로 이동하는 가족의 뒷모습",
+      "prompt": "A family of three seen from behind riding a commuter train through Tokyo at dusk, city lights and a dense skyline outside the windows, warm interior lighting, calm travel mood, no logos or readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 29,
+      "id": "etc-region",
+      "output_file": "etc-region.jpg",
+      "title": "주부·시코쿠·기타 권역 가이드",
+      "region": "주부·시코쿠·기타",
+      "alt_ko": "마쓰야마 시내 골목과 멀리 보이는 성, 혹은 도고온천 거리 풍경",
+      "prompt": "A quiet old town street in Matsuyama, Shikoku, with wooden machiya-style shopfronts and a tiled roofline, a hilltop Japanese castle keep visible in the distance above the town, late afternoon sunlight, quiet slow-travel mood, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 30,
+      "id": "beppu-hub",
+      "output_file": "beppu-hub.jpg",
+      "title": "벳푸 여행 가이드",
+      "region": "벳푸",
+      "alt_ko": "벳푸 간나와 온천지구에서 피어오르는 증기와 지옥순례 풍경",
+      "prompt": "Beppu hot spring town in Kyushu with steam rising from vents and rooftops, a red torii gate by a steaming Jigoku pond, morning light, calm mood, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 31,
+      "id": "nagasaki-hub",
+      "output_file": "nagasaki-hub.jpg",
+      "title": "나가사키 여행 가이드",
+      "region": "나가사키",
+      "alt_ko": "나가사키 야경과 오우라 천주당 풍경",
+      "prompt": "Nagasaki night view from Mount Inasa with a starry city lights panorama over the harbour and long bridges, deep blue night sky, tranquil, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 32,
+      "id": "kyoto-hub",
+      "output_file": "kyoto-hub.jpg",
+      "title": "교토 여행 가이드",
+      "region": "교토",
+      "alt_ko": "교토 가와라마치 거리와 오층탑이 함께 보이는 교토 시내 풍경",
+      "prompt": "A calm path of vermilion torii gates on a forested mountainside in Kyoto, dappled morning light, a parent and child walking seen from behind, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 33,
+      "id": "kobe-hub",
+      "output_file": "kobe-hub.jpg",
+      "title": "고베 여행 가이드",
+      "region": "고베",
+      "alt_ko": "하버랜드 앞 항구 야경과 배경의 고베 시가지가 함께 보이는 풍경",
+      "prompt": "Kobe harbour at dusk with the Kobe Port Tower silhouette, ships and a lit Ferris wheel by the waterfront, warm lights, family silhouettes by the promenade, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 34,
+      "id": "nara-hub",
+      "output_file": "nara-hub.jpg",
+      "title": "나라 여행 가이드",
+      "region": "나라",
+      "alt_ko": "나라공원에서 풀을 뜯는 사슴과 뒤로 보이는 도다이지 대불전 지붕",
+      "prompt": "Nara park in soft afternoon light, a gentle deer close to a wall of the Great Buddha Hall in the background, a parent and child seen from behind feeding the deer, peaceful mood, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 35,
+      "id": "yokohama-hub",
+      "output_file": "yokohama-hub.jpg",
+      "title": "요코하마 여행 가이드",
+      "region": "요코하마",
+      "alt_ko": "미나토미라이와 바다를 배경으로 걷는 가족 여행자",
+      "prompt": "Yokohama Minato Mirai skyline at dusk with the Landmark Tower and Cosmo Clock ferris wheel reflected on the bay, gentle evening colors, a family strolling seen from behind, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 36,
+      "id": "hakone-hub",
+      "output_file": "hakone-hub.jpg",
+      "title": "하코네 여행 가이드",
+      "region": "하코네",
+      "alt_ko": "아시노코 호수 위를 가르는 해적선과 멀리 보이는 후지산",
+      "prompt": "Lake Ashi in Hakone with its red torii gate on the shore, a sightseeing ship on the water and Mount Fuji in the distance, soft morning mist, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 37,
+      "id": "nagoya-hub",
+      "output_file": "nagoya-hub.jpg",
+      "title": "나고야 여행 가이드",
+      "region": "나고야",
+      "alt_ko": "나고야성 본마루어전과 멀리 보이는 센트레아, 또는 사카에 오아시스21 전경",
+      "prompt": "Nagoya Castle keep with golden shachihoko ornaments viewed from the garden, clear blue sky, a parent and child seen from behind on the path, spring greenery, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 38,
+      "id": "takamatsu-hub",
+      "output_file": "takamatsu-hub.jpg",
+      "title": "다카마쓰 여행 가이드",
+      "region": "다카마쓰",
+      "alt_ko": "리쓰린 공원 남호와 기쿠게쓰테이, 혹은 나오시마 항구의 빨간 호박과 세토나이카이 풍경",
+      "prompt": "Ritsurin Garden in Takamatsu with a tranquil pond, stone bridges and pine trees, autumn colors, a parent and child walking on a path seen from behind, calm composition, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 39,
+      "id": "sapporo-hub",
+      "output_file": "sapporo-hub.jpg",
+      "title": "삿포로 여행 가이드",
+      "region": "삿포로",
+      "alt_ko": "눈 덮인 오도리공원과 삿포로 TV타워, 멀리 홋카이도대학 캠퍼스",
+      "prompt": "Sapporo Odori Park in winter with snow-covered trees, a skating rink and glowing ice lanterns, evening lights, children playing gently in the distance, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    },
+    {
+      "no": 40,
+      "id": "okinawa-hub",
+      "output_file": "okinawa-hub.jpg",
+      "title": "오키나와 여행 가이드",
+      "region": "오키나와",
+      "alt_ko": "국제거리의 번화한 거리와 유이레일, 혹은 차탄 해변과 만좌모 전망",
+      "prompt": "Okinawa blue ocean and white sand beach with a red shisa statue on a stone wall in the foreground, a parent and child walking along the shore seen from behind, bright clear sky, no readable text. photorealistic travel editorial photograph, 16:9 landscape, 1600x900, natural soft light, warm and bright color grade, shallow depth of field, clean composition with calm space for a title overlay on the left or bottom third"
+    }
+  ]
+}

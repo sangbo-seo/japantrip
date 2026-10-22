@@ -1,0 +1,85 @@
+{
+  "required": [
+    "id",
+    "title",
+    "summary",
+    "menu",
+    "type",
+    "region",
+    "last_checked",
+    "published",
+    "status",
+    "thumbnail",
+    "slug"
+  ],
+  "display": [
+    "duration",
+    "companions",
+    "kid_fit",
+    "reservation",
+    "est_cost",
+    "cost_basis",
+    "read_time",
+    "time_needed",
+    "rain_ok",
+    "themes"
+  ],
+  "relations": [
+    "related_itinerary",
+    "related_posts",
+    "next_step",
+    "hub",
+    "sources",
+    "update_note",
+    "season",
+    "author"
+  ],
+  "enums": {
+    "menu": [
+      "준비",
+      "지역",
+      "일정",
+      "이동",
+      "현장",
+      "도구"
+    ],
+    "type": [
+      "가이드",
+      "도시허브",
+      "일정",
+      "비교",
+      "도구"
+    ],
+    "status": [
+      "초안",
+      "검수",
+      "게시",
+      "갱신필요"
+    ],
+    "kid_fit": [
+      "높음",
+      "보통",
+      "낮음",
+      "해당없음"
+    ],
+    "reservation": [
+      "필수",
+      "권장",
+      "불필요",
+      "해당없음"
+    ]
+  },
+  "limits": {
+    "title": 40,
+    "summary": 60,
+    "chips_per_card": 3,
+    "icons_per_card": 2,
+    "page_size": 12
+  },
+  "stale_days": {
+    "가이드": 90,
+    "비교": 90,
+    "도시허브": 180,
+    "일정": 365
+  }
+}
